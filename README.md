@@ -18,7 +18,7 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install git -y
 > git clone https://github.com/JayDarkNet404/bot-wea-ganss-v2
-> cd bot-wea-v2
+> cd bot-wea-ganss-v2
 > npm cache clear
 > bash install.sh
 > npm audit fix
